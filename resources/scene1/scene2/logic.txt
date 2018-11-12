@@ -1,0 +1,6 @@
+abuse
+The doctor said your wounds are from abuse.
+doYouHaveAnywhereToGo
+Do you have anywhere to go home?
+iHavetoGo
+I have to go now.

@@ -1,0 +1,10 @@
+master.txt
+wheresMother
+.DS_Store
+comeHomeWithMe
+logic.txt
+whatsWrongWithFather
+4.jpg
+2.jpg
+3.jpg
+1.jpg
